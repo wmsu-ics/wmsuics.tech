@@ -1,0 +1,1 @@
+Institute of Computer Studies is a stronghold Institute in Western Mindanao State University, offering quality education in the field of computer science and information technology. 
