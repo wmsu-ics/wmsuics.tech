@@ -143,6 +143,12 @@ div.left-column {
 	float: left;
 }
 
+div.banner-text-column {
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+
 div.right-column {
 	width: 44%;
 	height: 100%;
@@ -184,7 +190,7 @@ table tr:nth-child(odd) {
 /* CLASSES */
 
 .info-box {
-	padding: 180px;
+	padding: 20px;
 }
 
 .core-box {
@@ -375,7 +381,7 @@ table tr:nth-child(odd) {
 }
 
 .headerbanner {
-	background-image: url("../images/headerbanner.png");
+	background-image: url("../images/Banner.png");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -535,7 +541,7 @@ table tr:nth-child(odd) {
 }
 
 #banner-title {
-	font-size: 50px;
+	font-size: 65px;
 	color: #fff;
 	font-family: 'OpenSans-SemiBold';
 	text-shadow: 2px 2px 4px #000000;
@@ -621,10 +627,21 @@ table tr:nth-child(odd) {
 	}
 }
 
+@media only screen and (max-width: 1300px) {
+	#banner-title {
+		font-size: 40px;
+	}
+}
+
 @media only screen and (max-width: 900px) {
 	div.left-column {
 		width: 90%;
 		height: 40%;
+		float: left;
+	}
+	div.banner-text-column {
+		width: 100%;
+		height: 100%;
 		float: left;
 	}
 	div.right-column {

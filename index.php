@@ -62,17 +62,19 @@
 				<iframe src="https://www.youtube.com/embed/pAM5Waulye8?autoplay=1&loop=1&playlist=pAM5Waulye8" frameborder="0" allowfullscreen allow='autoplay'></iframe>
 			</div>
 			<div id="ics" class="headerbanner">
-				<div class="table">
-					<div class="center-table">
-						<div class="info-box">
-							<div id="banner-title">Institute of Computer Studies</div>
-							<div id="banner-quote">
-								Institute of Computer Studies is a stronghold Institute in 
-								Western Mindanao State University, offering quality education in the field of 
-								computer science and information technology. 
-								Be proud and take part of this remarkable Institute.
+				<div class="banner-text-column">
+					<div class="table">
+						<div class="center-table">
+							<div class="info-box">
+								<div id="banner-title">Institute of Computer Studies</div>
+								<div id="banner-quote">
+									Institute of Computer Studies is a stronghold Institute in 
+									Western Mindanao State University, offering quality education in the field of 
+									computer science and information technology. 
+									Be proud and take part of this remarkable Institute.
+								</div>
+								<!--<div><a href="directorslist.php" id="go-to-directorslist" class="button">SEE DIRECTOR'S LIST</a></div> -->
 							</div>
-							<!--<div><a href="directorslist.php" id="go-to-directorslist" class="button">SEE DIRECTOR'S LIST</a></div> -->
 						</div>
 					</div>
 				</div>
