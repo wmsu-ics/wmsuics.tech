@@ -70,7 +70,7 @@
 								<div id="banner-quote">
 									Institute of Computer Studies is a stronghold Institute in 
 									Western Mindanao State University, offering quality education in the field of 
-									computer science and information technology. 
+									Computer Science and Information Technology. 
 									Be proud and take part of this remarkable Institute.
 								</div>
 								<!--<div><a href="directorslist.php" id="go-to-directorslist" class="button">SEE DIRECTOR'S LIST</a></div> -->
@@ -107,7 +107,7 @@
 							<div class="dash-footer">
 								<div class="core-content">
 									<div class="core-title">SELF-RELIANCE</div>
-									<div class="description">The ability to have confidence in and exercise one’s own judgment.</div>
+									<div class="description">The ability to have confidence in and exercise one’s judgment decisively and rationally.</div>
 								</div>
 							</div>
 						</div>
@@ -381,7 +381,7 @@
 					<div class="center-table">
 						<div id="banner-title">Institute of Computer Studies</div>
 						<div id="banner-title">History</div>
-						<div id="historytext" class="text">The ICS is the Institute in Western Mindanao State University. It started on a ladderized program in the year 1994, offering: 2 years Associate Computer Technology, 3 years diploma in Computer Technology, 4 years Bachelor of Computer Science, 5 years Bachelor of Computer Engineering under the College of Engineering and Technology. In the year 2000, the ladderized program was removed. The Computer Engineer and Computer Science was separated, at the same time Computer Science has a major, Information Technology and Software Technology. It was revised in the year 2006 but nothing was change, 2016 last year the curriculum was change and the major was removed, BSCS and BSIT at the same time the ICS become an Institute and it was headed by MIT Roderick P. Go.
+						<div id="historytext" class="text">The ICS is the Institute in Western Mindanao State University. It started on a ladderized program in the year 1994, offering: 2 years Associate Computer Technology, 3 years diploma in Computer Technology, 4 years Bachelor of Computer Science, 5 years Bachelor of Computer Engineering under the College of Engineering and Technology. In the year 2000, the ladderized program was removed. The Computer Engineer and Computer Science was separated, at the same time Computer Science has a major, Information Technology and Software Technology. It was revised in the year 2006 but nothing was change, 2016 last year the curriculum was change and the major was removed, BSCS and BSIT at the same time the ICS become an Institute and it was headed by Dr. Roderick P. Go.
 						</div>
 					</div>
 				</div>
@@ -390,7 +390,7 @@
 			<div id="footer">
 				<div class="table">
 					<div class="center-table">
-						<p>Copyright © 2020 ICS WMSU</p>
+						<p>Copyright © 2020 Western Mindanao State University Institute of Computer Studies</p>
 						<p>All Rights Reserved</p>
 					</div>
 				</div>
