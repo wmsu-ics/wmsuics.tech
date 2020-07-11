@@ -24,6 +24,7 @@
 			<img id="logo-image" src="images/ics-seal.png">
 			<div id="header-menu">
 				<div class="menuitem"><a class="menulink" href="#welcome">Welcome</a></div>
+				<div class="menuitem"><a class="menulink" href="http://www.wmsu.edu.ph/" target="_blank">WMSU</a></div>
 				<div class="menuitem"><a class="menulink" href="#ics">ICS</a></div>
 				<div class="menuitem"><a class="menulink" href="#corevalues">Core Values</a></div>
 				<div class="menuitem"><a class="menulink" href="#goals">Goals</a></div>
