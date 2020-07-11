@@ -60,7 +60,7 @@
 		</div>
 		<div id="container">
 			<div id="welcome">
-				<iframe src="https://www.youtube.com/embed/pAM5Waulye8?autoplay=1&loop=1&playlist=pAM5Waulye8" frameborder="0" allowfullscreen allow='autoplay'></iframe>
+				<iframe src="https://www.youtube.com/embed/pAM5Waulye8?autoplay=1&loop=1&playlist=pAM5Waulye8" frameborder="0" allowfullscreen></iframe>
 			</div>
 			<div id="ics" class="headerbanner">
 				<div class="banner-text-column">
