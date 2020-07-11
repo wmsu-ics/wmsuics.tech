@@ -45,6 +45,7 @@
 			</div>
 			<div id="nav-bar">
 				<a onclick="navigateMenu(this)" href="#welcome" class="nav-bar-item">Welcome</a>
+				<a onclick="navigateMenu(this)" href="http://www.wmsu.edu.ph/" target="_blank" class="nav-bar-item">WMSU</a>
 				<a onclick="navigateMenu(this)" href="#ics" class="nav-bar-item">ICS</a>
 				<a onclick="navigateMenu(this)" href="#corevalues" class="nav-bar-item">Core Values</a>
 				<a onclick="navigateMenu(this)" href="#goals" class="nav-bar-item">Goals</a>
