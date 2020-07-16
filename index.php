@@ -21,48 +21,56 @@
 	</head>
 	<body id="main" oncontextmenu="return false"> <!-- oncontextmenu="return false"  -->
 		<div id="header">
-			<img id="logo-image" src="images/ics-seal.png">
-			<div id="header-menu">
-				<div class="menuitem"><a class="menulink" href="#welcome">Welcome</a></div>
-				<div class="menuitem"><a class="menulink" href="http://www.wmsu.edu.ph/" target="_blank">WMSU</a></div>
-				<div class="menuitem"><a class="menulink" href="#ics">ICS</a></div>
-				<div class="menuitem"><a class="menulink" href="#corevalues">Core Values</a></div>
-				<div class="menuitem"><a class="menulink" href="#goals">Goals</a></div>
-				<div class="menuitem"><a class="menulink" href="#academics">Academics</a></div>
-				<div class="menuitem"><a class="menulink" href="#history">History</a></div>
-				<div class="menuitem"><a class="menulink" href="#location">Location</a></div>
+			<div id="box1">
+				<img id="logo-image" src="images/ics-seal.png">
+				<a class="ics-title" href="#ics">INSTITUTE OF <br> COMPUTER STUDIES</a>
+			</div>
+			<div class="table" id="box2">
+				<div class="center-table" id="header-menu">
+					<div class="menuitem"><a class="menulink" href="#welcome">Welcome</a></div>
+					<div class="menuitem"><a class="menulink" href="#corevalues">Core Values</a></div>
+					<div class="menuitem"><a class="menulink" href="#goals">Goals</a></div>
+					<div class="menuitem"><a class="menulink" href="#academics">Academic Programs</a></div>
+					<div class="menuitem"><a class="menulink" href="#history">History</a></div>
+					<div class="menuitem"><a class="menulink" href="#location">Location</a></div>
+				</div>
+			</div>
+			<div class="table" id="box3">
+				<div class="center-table" id="header-menu">
+					<a id="wmsu-button" href="http://www.wmsu.edu.ph/" target="_blank">WMSU</a>
+					<a id="ics-button" href="http://qualifiers.wmsuics.tech/" target="_blank">ICS QUALIFIERS</a>
+				</div>
 			</div>
 		</div>
-		<div id="nav-container" class="hiddenmenu">
+		<div id="nav-container" class="sidenav">
+			<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 			<div class="profile">
 				<div class="table">
 					<div class="center-table">
 						<div class="bottom-dash">
-							<img class="profile-pic" src="images/ics-seal.png">
+							<img class="profile-pic" src="images/ics-seal.png"><br>
+							<a class="ics-title" onclick="closeNav()" href="#ics">INSTITUTE OF <br> COMPUTER STUDIES</a>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div id="nav-bar">
-				<a onclick="navigateMenu(this)" href="#welcome" class="nav-bar-item">Welcome</a>
-				<a onclick="navigateMenu(this)" href="http://www.wmsu.edu.ph/" target="_blank" class="nav-bar-item">WMSU</a>
-				<a onclick="navigateMenu(this)" href="#ics" class="nav-bar-item">ICS</a>
-				<a onclick="navigateMenu(this)" href="#corevalues" class="nav-bar-item">Core Values</a>
-				<a onclick="navigateMenu(this)" href="#goals" class="nav-bar-item">Goals</a>
-				<a onclick="navigateMenu(this)" href="#academics" class="nav-bar-item">Academics</a>
-				<a onclick="navigateMenu(this)" href="#history" class="nav-bar-item">History</a>
-				<a onclick="navigateMenu(this)" href="#location" class="nav-bar-item">Location</a>
+				<a onclick="closeNav()" href="#welcome" class="nav-bar-item">Welcome</a>
+				<a onclick="closeNav()" href="#corevalues" class="nav-bar-item">Core Values</a>
+				<a onclick="closeNav()" href="#goals" class="nav-bar-item">Goals</a>
+				<a onclick="closeNav()" href="#academics" class="nav-bar-item">Academic Programs</a>
+				<a onclick="closeNav()" href="#history" class="nav-bar-item">History</a>
+				<a onclick="closeNav()" href="#location" class="nav-bar-item">Location</a>
+				<a onclick="closeNav()" id="wmsu-button" href="http://www.wmsu.edu.ph/" target="_blank">WMSU</a>
+				<a onclick="closeNav()" id="ics-button" href="http://qualifiers.wmsuics.tech/" target="_blank">ICS QUALIFIERS</a>
 			</div>
 		</div>
-		<div class="hamburger-button" onclick="navigateMenu(this)">
+		<div class="hamburger-button" onclick="openNav(this)">
 			<div class="bar1"></div>
 			<div class="bar2"></div>
 			<div class="bar3"></div>
 		</div>
 		<div id="container">
-			<div id="welcome">
-				<iframe src="https://www.youtube.com/embed/pAM5Waulye8?autoplay=1&loop=1&playlist=pAM5Waulye8" frameborder="0" allowfullscreen></iframe>
-			</div>
 			<div id="ics" class="headerbanner">
 				<div class="banner-text-column">
 					<div class="table">
@@ -80,6 +88,9 @@
 						</div>
 					</div>
 				</div>
+			</div>
+			<div id="welcome">
+				<iframe src="https://www.youtube.com/embed/pAM5Waulye8?autoplay=1&loop=1&playlist=pAM5Waulye8" frameborder="0" allowfullscreen></iframe>
 			</div>
 			<div id="corevalues">
 				<div class="table">
@@ -174,7 +185,7 @@
 				<div class="table">
 					<div class="center-table">
 						<div class="header-container">
-							<div class="title">Institute of Computer Studies Academics</div>
+							<div class="title">Institute of Computer Studies Academic Programs</div>
 						</div>
 					</div>
 				</div>
@@ -404,7 +415,6 @@
 			window.dataLayer = window.dataLayer || [];
 			function gtag(){dataLayer.push(arguments);}
 			gtag('js', new Date());
-
 			gtag('config', 'UA-169281050-1');
 		</script>
 		<script>
