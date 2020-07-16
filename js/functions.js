@@ -4,17 +4,6 @@
  * Developed By: Jason A. Catadman and Jaydee C. Ballaho
  */
 
-function navigateMenu(x) {
-    x.classList.toggle("change");
-    var menu = document.getElementById("nav-container");
-    if(menu.className != "shownmenu") {
-        menu.className = "shownmenu";
-    }
-    else {
-        menu.className = "hiddenmenu";
-    }
-}
-
 window.onload = function() {
     // Add active class to the current button (highlight it)
     var header = document.getElementById("nav-bar");
@@ -28,4 +17,12 @@ window.onload = function() {
             this.className += " active";
         });
     }
+}
+
+function openNav() {
+    document.getElementById("nav-container").style.width = "300px";
+}
+
+function closeNav() {
+    document.getElementById("nav-container").style.width = "0";
 }
