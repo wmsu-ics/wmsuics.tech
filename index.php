@@ -90,7 +90,7 @@
 				</div>
 			</div>
 			<div id="welcome">
-				<iframe src="https://www.youtube.com/embed/pAM5Waulye8?autoplay=1&loop=1&playlist=pAM5Waulye8" frameborder="0" allowfullscreen></iframe>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/nGsU6-jYJx4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 			<div id="corevalues">
 				<div class="table">
