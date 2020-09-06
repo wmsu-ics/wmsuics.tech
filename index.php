@@ -38,7 +38,7 @@
 			<div class="table" id="box3">
 				<div class="center-table" id="header-menu">
 					<a id="wmsu-button" href="http://www.wmsu.edu.ph/" target="_blank">WMSU</a>
-					<a id="ics-button" href="http://qualifiers.wmsuics.tech/" target="_blank">ICS QUALIFIERS</a>
+					<a id="ics-button" href="http://lms.wmsuics.tech/" target="_blank">Digital Education</a>
 				</div>
 			</div>
 		</div>
