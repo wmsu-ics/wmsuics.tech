@@ -1,0 +1,9 @@
+.htaccess
+	directory/
+	enrollmentstatus/
+	lms/
+	portal/
+	qualifiers/
+	register/
+	test/
+	testlms/
