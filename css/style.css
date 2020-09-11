@@ -416,7 +416,7 @@ table tr:nth-child(odd) {
 }
 
 .headerbanner {
-	background-image: url("../images/Banner-BG.png");
+	background-image: url("../images/Header-Banner.png");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
