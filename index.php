@@ -31,6 +31,7 @@
 					<div class="menuitem"><a class="menulink" href="#corevalues">Core Values</a></div>
 					<div class="menuitem"><a class="menulink" href="#goals">Goals</a></div>
 					<div class="menuitem"><a class="menulink" href="#academics">Academic Programs</a></div>
+					<div class="menuitem"><a class="menulink" href="#faculty">Faculty</a></div>
 					<div class="menuitem"><a class="menulink" href="#history">History</a></div>
 					<div class="menuitem"><a class="menulink" href="#location">Location</a></div>
 				</div>
@@ -59,6 +60,7 @@
 				<a onclick="closeNav()" href="#corevalues" class="nav-bar-item">Core Values</a>
 				<a onclick="closeNav()" href="#goals" class="nav-bar-item">Goals</a>
 				<a onclick="closeNav()" href="#academics" class="nav-bar-item">Academic Programs</a>
+				<a onclick="closeNav()" href="#faculty" class="nav-bar-item">Faculty</a>
 				<a onclick="closeNav()" href="#history" class="nav-bar-item">History</a>
 				<a onclick="closeNav()" href="#location" class="nav-bar-item">Location</a>
 				<a onclick="closeNav()" id="wmsu-button" href="http://www.wmsu.edu.ph/" target="_blank">WMSU</a>
@@ -386,6 +388,289 @@
 									</div>
 								</div>
 							</div>
+					</div>
+				</div>
+			</div>
+			<div id="faculty">
+				<div class="table">
+					<div class="center-table">
+						<div class="header-container">
+							<div class="title">Institute of Computer Studies Faculty</div>
+						</div>
+					</div>
+				</div>
+				<div class="table">
+					<div class="center-table">
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<!-- -->
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<!-- -->
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<!-- -->
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<!-- -->
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<!-- -->
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<div class="core-box">
+							<div class="core-image-box">
+								<img class="core-image" src="images/placeholder.png">
+							</div>
+							<div class="dash-footer">
+								<div class="core-content">
+									<div class="core-title">Position</div>
+									<div class="description">Full name</div>
+								</div>
+							</div>
+						</div>
+						<!-- -->
 					</div>
 				</div>
 			</div>

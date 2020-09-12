@@ -416,7 +416,7 @@ table tr:nth-child(odd) {
 }
 
 .headerbanner {
-	background-image: url("../images/Banner.png");
+	background-image: url("../images/Header-Banner.png");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -516,6 +516,13 @@ table tr:nth-child(odd) {
 }
 
 #container div#academics {
+	width: 100%;
+	height: auto;
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+
+#container div#faculty {
 	width: 100%;
 	height: auto;
 	padding-top: 100px;
