@@ -407,8 +407,8 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Dr. Roderick P. Go</div>
+									<div class="faculty-position">Director</div>
 								</div>
 							</div>
 						</div>
@@ -418,8 +418,8 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Engr. Gadmar M. Belamide, MEnggEd</div>
+									<div class="faculty-position">Institute Secretary</div>
 								</div>
 							</div>
 						</div>
@@ -429,8 +429,8 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Engr. Odon A. Maravillas Jr., MSCS</div>
+									<div class="faculty-position">Head, Computer Science</div>
 								</div>
 							</div>
 						</div>
@@ -440,8 +440,8 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Mr. John Ed Augustus A. Escorial, MIT</div>
+									<div class="faculty-position">Head, Information Technology</div>
 								</div>
 							</div>
 						</div>
@@ -452,8 +452,8 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Engr. Edwin I. Arip, MEnggEd</div>
+									<div class="faculty-position">External Studies Unit</div>
 								</div>
 							</div>
 						</div>
@@ -463,8 +463,8 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Mr. Jhon Paul I. Arip</div>
+									<div class="faculty-position">Member, LMS Development</div>
 								</div>
 							</div>
 						</div>
@@ -474,8 +474,8 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Mr. Jaydee C. Ballaho</div>
+									<div class="faculty-position">Lead, LMS Development</div>
 								</div>
 							</div>
 						</div>
@@ -485,8 +485,8 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Mr. Jason A. Catadman</div>
+									<div class="faculty-position">Member, LMS Development</div>
 								</div>
 							</div>
 						</div>
@@ -497,8 +497,8 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Ms. Aida A. Escorial, MIT</div>
+									<div class="faculty-position">Quality Assurance</div>
 								</div>
 							</div>
 						</div>
@@ -508,8 +508,8 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Ms. Lucy Felix-Sadiwa</div>
+									<div class="faculty-position">Guidance and Gender</div>
 								</div>
 							</div>
 						</div>
@@ -519,8 +519,8 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Engr. Mark L. Flores, MEnggEd</div>
+									<div class="faculty-position">Network Administrator</div>
 								</div>
 							</div>
 						</div>
@@ -530,8 +530,8 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Ms. Pauleen Jean E. Gregana</div>
+									<div class="faculty-position">CERT Associate</div>
 								</div>
 							</div>
 						</div>
@@ -542,8 +542,8 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Engr. Marvic A. Lines, MEnggEd</div>
+									<div class="faculty-position">Member, LMS Training & Mngt</div>
 								</div>
 							</div>
 						</div>
@@ -553,8 +553,8 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Engr. Ceed Jezreel B. Lorenzo, MIT</div>
+									<div class="faculty-position">Research</div>
 								</div>
 							</div>
 						</div>
@@ -564,8 +564,8 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Mr. Leirrand Christian A. Ochotorena</div>
+									<div class="faculty-position">Data Protection/IT Officer</div>
 								</div>
 							</div>
 						</div>
@@ -575,8 +575,8 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Ms. Angeline Chrisette C. Olegario</div>
+									<div class="faculty-position">Member, LMS Development</div>
 								</div>
 							</div>
 						</div>
@@ -587,8 +587,8 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Engr. Marjorie A. Rojas</div>
+									<div class="faculty-position">Student Affairs</div>
 								</div>
 							</div>
 						</div>
@@ -598,8 +598,8 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Mr. Salimar B. Tahil, MEnggEd</div>
+									<div class="faculty-position">Member, LMS Training & Mngt</div>
 								</div>
 							</div>
 						</div>
@@ -609,8 +609,8 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Mr. Whesley G. Timpangco</div>
+									<div class="faculty-position">CERT Associate</div>
 								</div>
 							</div>
 						</div>
@@ -620,56 +620,12 @@
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
+									<div class="faculty-name">Ms. Jackaria M. Alhadzra</div>
+									<div class="faculty-position">Laboratory Technician</div>
 								</div>
 							</div>
 						</div>
 						<!-- -->
-						<div class="core-box">
-							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
-							</div>
-							<div class="dash-footer">
-								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
-								</div>
-							</div>
-						</div>
-						<div class="core-box">
-							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
-							</div>
-							<div class="dash-footer">
-								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
-								</div>
-							</div>
-						</div>
-						<div class="core-box">
-							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
-							</div>
-							<div class="dash-footer">
-								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
-								</div>
-							</div>
-						</div>
-						<div class="core-box">
-							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
-							</div>
-							<div class="dash-footer">
-								<div class="core-content">
-									<div class="core-title">Position</div>
-									<div class="description">Full name</div>
-								</div>
-							</div>
-						</div>
 						<!-- -->
 					</div>
 				</div>

@@ -301,6 +301,20 @@ table tr:nth-child(odd) {
 	font-family: 'OpenSans-Light';
 }
 
+.faculty-name {
+	font-size: 15px;
+	color: #249f73;
+	display: inline-block;
+	font-weight: 600;
+	font-family: 'OpenSans-Light';
+}
+
+.faculty-position {
+	font-size: 15px;
+	color: #c2a255;
+	font-family: 'OpenSans-Light';
+}
+
 .header-container {
 	margin: 20px 0px 40px 0px;
 }
