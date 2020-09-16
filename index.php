@@ -403,7 +403,7 @@
 					<div class="center-table">
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/go.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -414,7 +414,7 @@
 						</div>
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/belamide.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -425,7 +425,7 @@
 						</div>
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/odon.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -436,7 +436,7 @@
 						</div>
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/escorialj.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -448,7 +448,7 @@
 						<!-- -->
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/aripe.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -459,7 +459,7 @@
 						</div>
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/aripj.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -470,7 +470,7 @@
 						</div>
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/ballaho.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -481,7 +481,7 @@
 						</div>
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/catadman.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -493,7 +493,7 @@
 						<!-- -->
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/escoriala.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -504,7 +504,7 @@
 						</div>
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/sadiwa.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -515,7 +515,7 @@
 						</div>
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/flores.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -526,7 +526,7 @@
 						</div>
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/gregana.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -538,7 +538,7 @@
 						<!-- -->
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/lines.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -549,7 +549,7 @@
 						</div>
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/lorenzo.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -560,7 +560,7 @@
 						</div>
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/ochotorena.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -571,7 +571,7 @@
 						</div>
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/olegario.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -583,7 +583,7 @@
 						<!-- -->
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/rojas.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -594,7 +594,7 @@
 						</div>
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/tahil.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -605,7 +605,7 @@
 						</div>
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/timpangco.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -616,7 +616,7 @@
 						</div>
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/placeholder.png">
+								<img class="core-image" src="images/faculty/jackaria.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
