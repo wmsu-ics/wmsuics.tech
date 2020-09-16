@@ -448,7 +448,7 @@
 						<!-- -->
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/faculty/aripe.png">
+								<img class="core-image" src="images/faculty/aripE.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
@@ -459,7 +459,7 @@
 						</div>
 						<div class="core-box">
 							<div class="core-image-box">
-								<img class="core-image" src="images/faculty/aripj.png">
+								<img class="core-image" src="images/faculty/aripJ.png">
 							</div>
 							<div class="dash-footer">
 								<div class="core-content">
