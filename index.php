@@ -39,7 +39,7 @@
 			<div class="table" id="box3">
 				<div class="center-table" id="header-menu">
 					<a id="wmsu-button" href="http://www.wmsu.edu.ph/" target="_blank">WMSU</a>
-					<a id="ics-button" href="http://lms.wmsuics.tech/" target="_blank">LMS Digital Education</a>
+					<a id="ics-button" href="http://lms.wmsuics.tech/" target="_blank">Digital Education</a>
 				</div>
 			</div>
 		</div>
@@ -64,7 +64,7 @@
 				<a onclick="closeNav()" href="#history" class="nav-bar-item">History</a>
 				<a onclick="closeNav()" href="#location" class="nav-bar-item">Location</a>
 				<a onclick="closeNav()" id="wmsu-button" href="http://www.wmsu.edu.ph/" target="_blank">WMSU</a>
-				<a onclick="closeNav()" id="ics-button" href="http://lms.wmsuics.tech/" target="_blank">LMS Digital Education</a>
+				<a onclick="closeNav()" id="ics-button" href="http://lms.wmsuics.tech/" target="_blank">Digital Education</a>
 			</div>
 		</div>
 		<div class="hamburger-button" onclick="openNav(this)">
